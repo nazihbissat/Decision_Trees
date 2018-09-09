@@ -1,0 +1,10 @@
+Name: Nazih Bissat
+Email Address: nbissat@seas.upenn.edu
+
+Unlimited Depth Decision Tree:
+Depth 4 Decision Tree:
+Depth 8 Decision Tree:
+
+All one must do to see my results is run the hw1.py file. In order to change the depth of the decision tree from 8 to
+the optimal depth when making features from the decision tree predictions, simply change the max_depth parameter on
+line 370 from 8 to 'depth'.
